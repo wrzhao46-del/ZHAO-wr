@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of IELTS Speaking Coach",
+  "description": "A real-time AI examiner to practice your IELTS speaking test with instant feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
